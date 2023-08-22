@@ -1,0 +1,9 @@
+
+.imageAboutPage {
+    width: 10%;
+
+}
+body{
+ 
+    background-image: linear-gradient(to bottom right,rgb(220, 230, 230),hsla(184, 71%, 61%, 0.853));
+}

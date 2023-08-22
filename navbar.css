@@ -1,0 +1,53 @@
+
+nav{
+    background-color: black;
+    display: flexbox;
+
+}
+nav ul {
+display: flex;
+justify-content: space-between;
+list-style-type: none;
+padding: 15px;
+}
+.nav-link:hover{
+color: blueviolet;
+
+}
+nav li {
+margin: 0 5px;
+}
+
+nav a {
+text-decoration: none;
+color: white;
+padding: 10px;
+margin: 20px;
+}
+.right1{
+  margin: 10px;
+  padding: 10px;
+  position: absolute;
+  display: inline-block;
+  right: 87px;
+  top: 12px;
+  color:black;
+  
+  border-radius: 10px;
+  background-color: green;
+}
+.right2{
+  margin: 10px;
+  padding: 10px;
+  position: absolute;
+  display: inline-block;
+  right: 35px;
+  top: 12px;
+  background-color: aliceblue;
+  color:black;
+  border-radius: 10px;
+}
+.right1:hover{
+  color: white;
+  background-color: brown;
+}
