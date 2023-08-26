@@ -1,7 +1,8 @@
 
 nav{
-    background-color: black;
+   background-color: rgb(33, 97, 208);
     display: flexbox;
+    border-radius: 4rem;
 
 }
 nav ul {
@@ -11,7 +12,11 @@ list-style-type: none;
 padding: 15px;
 }
 .nav-link:hover{
-color: blueviolet;
+color: rgb(9, 6, 11);
+background-color: rgba(128, 128, 128, 0.578);
+text-transform: uppercase;
+box-shadow: seagreen;
+    
 
 }
 nav li {
